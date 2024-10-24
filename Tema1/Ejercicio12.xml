@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personas>
+    <Persona>
+        <nombre>Dan</nombre>
+        <apellido1>Rob</apellido1>
+        <apellido2>Cam</apellido2>
+        <nacimiento>Fri Sep 17 00:00:00 CEST 2004</nacimiento>
+    </Persona>
+    <Persona>
+        <nombre>Ale</nombre>
+        <apellido1>Jim</apellido1>
+        <apellido2>Arm</apellido2>
+        <nacimiento>Mon Dec 15 00:00:00 CET 2003</nacimiento>
+    </Persona>
+</Personas>
